@@ -1,0 +1,19 @@
+{
+  "name": "revolt.tools.functions",
+  "homepage": "https://github.com/revolt-framework/tools.functions",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework's default functions.",
+  "main": "_tools.functions.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css"
+  ],
+  "license": "MIT"
+}

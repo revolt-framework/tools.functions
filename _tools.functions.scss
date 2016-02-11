@@ -1,0 +1,27 @@
+//
+// REVOLT!
+// TOOLS.FUNCTIONS
+//
+// Revolt makes use of a few functions that are also available for you to use
+// later on in your extension of the framework.
+//
+
+
+
+// Maths helpers.
+
+@function quarter($value) {
+    @return $value / 4;
+}
+
+@function halve($value) {
+    @return $value / 2;
+}
+
+@function double($value) {
+    @return $value * 2;
+}
+
+@function quadruple($value) {
+    @return $value * 4;
+}
